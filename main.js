@@ -5,7 +5,7 @@ var sessionId = '';
 var name = '';
  
 // socket connection url and port
-var socket_url = 'https://nadeemahmed.herokuapp.com/';
+var socket_url = 'nadeemahmed.herokuapp.com';
 //var port = '8080';
  
 $(document).ready(function() {
